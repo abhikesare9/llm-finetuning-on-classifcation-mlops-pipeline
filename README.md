@@ -66,3 +66,9 @@ This repository contains the necessary components for building, training, and de
 ## Directory Structure
 
 - The **`training`** folder contains the Jupyter notebooks used during model training.
+
+##Further Improvements
+- **Implementation of RAG based MLEngine for better responses**
+- **Model Monitoring and data drift pipeline setup based on alerts**
+- **Microservice based architecture for login,history,predict along with vector db**
+
