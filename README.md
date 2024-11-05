@@ -20,6 +20,7 @@ This repository contains the necessary components for building, training, and de
 4. **Deployment Pipeline**  
    - **Terraform** is used to create the EKS cluster and the associated VPC.
    - **Helm charts** are used to deploy the Docker image to the EKS cluster.
+   - **JenkinsFile** is responsible for building docker image and deploy to EKS cluster through helm chart.
 
 ## Code Quality and Static Analysis
 
@@ -47,7 +48,7 @@ This repository contains the necessary components for building, training, and de
 ## Improving Model Accuracy
 
 - **Data Cleaning**: Improving data quality can significantly boost model performance.
-- **RAG (Retrieval-Augmented Generation)**: Implementing a RAG system is suggested for further model accuracy improvements.
+- **RAG (Retrieval-Augmented Generation)**: Implementing an RAG system is suggested for further model accuracy improvements.
 
 ## Directory Structure
 
