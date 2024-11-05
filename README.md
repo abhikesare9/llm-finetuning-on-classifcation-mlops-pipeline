@@ -1,6 +1,11 @@
 # ML Pipeline and Deployment Overview
 
 This repository contains the necessary components for building, training, and deploying a machine learning model, using a variety of tools and technologies to ensure a streamlined process. Below is a high-level breakdown of each component:
+**tools**
+DevOps = Kubernetes,Docker,Ansible,Sonaqube,helm,jenkins,github,terraform
+Web = Python,Fastapi
+Data Science = Transformers,Torch,tokenization, llm-tuning techniques(LORA)
+Design Patterns = Singleton and Bridgeadaptor
 
 ## Project Structure Overview
 
